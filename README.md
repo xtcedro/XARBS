@@ -1,1 +1,1 @@
-This for now is a bash script but will with enough thought power, become the end result which is a bootstrap for all distrobutions. 
+Tribute to Luke Smith and the new generation of Linux warriors. Also this is is just the beginning, the Age Of Creation is here but powerful forces are in the way
